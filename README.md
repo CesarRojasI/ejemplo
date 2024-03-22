@@ -1,9 +1,10 @@
 # Titulo (Nombre del grupo)
 ## subtitulo (Presentacion de equipo)
 
-FunBio. ¡ Bonjour á tous!
+FunBio ¡ Bonjour á tous!
 
-Intengrantes
+Intengrantes:
+
 *Callupe
 *Janampa
 *Rojas

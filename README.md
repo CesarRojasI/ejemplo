@@ -2,6 +2,7 @@
 ## subtitulo (Presentacion de equipo)
 
 FunBio. ¡ Bonjour á tous!
+
 Intengrantes
 *Callupe
 *Janampa

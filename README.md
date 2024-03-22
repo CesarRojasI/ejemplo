@@ -1,7 +1,7 @@
 # Titulo (Nombre del grupo)
 ## subtitulo (Presentacion de equipo)
 
-FunBio ¡ Bonjour á tous!
+FunBio ¡ Bonjour à tous!
 
 Intengrantes:
 
